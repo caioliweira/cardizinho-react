@@ -1,0 +1,15 @@
+.btn{
+     background-color: hsl(216, 12%, 54%);
+     border: 0;
+     margin: 5px;
+     padding: 18px;
+     height: auto;
+     width: 50px;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 600;
+     border-radius: 100%;
+     &:hover{
+          background-color: hsl(217, 12%, 63%);
+     }
+}
